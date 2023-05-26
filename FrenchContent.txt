@@ -1,3 +1,0 @@
-Help
-English: System load is very high.
-French: L'utilisation de système est très haute.
